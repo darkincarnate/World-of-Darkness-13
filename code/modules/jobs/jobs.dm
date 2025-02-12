@@ -92,6 +92,13 @@ GLOBAL_LIST_INIT(gang_positions, list(
 	"Triad Soldier",
 ))
 
+GLOBAL_LIST_INIT(endron_positions, list(
+	"Endron Executive",
+	"Endron Security",
+	"Endron Scientist",
+	"Endron Employee"
+))
+
 GLOBAL_LIST_INIT(ss13, list(
     "SS13",
 ))
@@ -113,7 +120,8 @@ GLOBAL_LIST_INIT(position_categories, list(
     EXP_TYPE_POLICE = list("jobs" = police_positions, "color" = "#1d22cc"),
     EXP_TYPE_NATIONAL_SECURITY = list("jobs" = national_security_positions, "color" = " #000491"),
     EXP_TYPE_GANG = list("jobs" = gang_positions, "color" = "#837524"),
-    EXP_TYPE_TZIMISCE = list("jobs" = tzimisce_positions, "color" = "#fa0207")
+    EXP_TYPE_TZIMISCE = list("jobs" = tzimisce_positions, "color" = "#fa0207"),
+	EXP_TYPE_ENDRON = list("jobs" = endron_positions, "color" = "#06402b)
 ))
 
 
@@ -133,7 +141,7 @@ GLOBAL_LIST_INIT(exp_jobsmap, list(
     EXP_TYPE_WAREHOUSE = list("titles" = warehouse_positions),
     EXP_TYPE_CHURCH = list("titles" = church_positions),
     EXP_TYPE_NATIONAL_SECURITY = list("titles" = national_security_positions),
-
+    EXP_TYPE_ENDRON = list("titles" = endron_positions)
 ))
 
 GLOBAL_LIST_INIT(exp_specialmap, list(
