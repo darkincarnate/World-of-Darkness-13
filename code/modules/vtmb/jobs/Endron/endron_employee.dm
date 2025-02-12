@@ -45,3 +45,4 @@
 
 /obj/effect/landmark/start/endron_employee
 	name = "Endron Employee"
+	icon_state = "Assistant"

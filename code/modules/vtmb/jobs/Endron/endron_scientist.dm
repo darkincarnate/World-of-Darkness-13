@@ -44,3 +44,4 @@
 
 /obj/effect/landmark/start/endron_scientist
 	name = "Endron Scientist"
+	icon_state = "Assistant"

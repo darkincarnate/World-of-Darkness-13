@@ -48,3 +48,4 @@
 
 /obj/effect/landmark/start/endron_executive
 	name = "Endron Executive"
+	icon_state = "Assistant"

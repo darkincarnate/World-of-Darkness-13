@@ -44,3 +44,4 @@
 
 /obj/effect/landmark/start/endron_security
 	name = "Endron Security"
+	icon_state = "Assistant"
