@@ -96,7 +96,7 @@ GLOBAL_LIST_INIT(endron_positions, list(
 	"Endron Executive",
 	"Endron Security",
 	"Endron Scientist",
-	"Endron Employee"
+	"Endron Employee",
 ))
 
 GLOBAL_LIST_INIT(ss13, list(
