@@ -121,7 +121,7 @@ GLOBAL_LIST_INIT(position_categories, list(
     EXP_TYPE_NATIONAL_SECURITY = list("jobs" = national_security_positions, "color" = " #000491"),
     EXP_TYPE_GANG = list("jobs" = gang_positions, "color" = "#837524"),
     EXP_TYPE_TZIMISCE = list("jobs" = tzimisce_positions, "color" = "#fa0207"),
-	EXP_TYPE_ENDRON = list("jobs" = endron_positions, "color" = "#06402b)
+	EXP_TYPE_ENDRON = list("jobs" = endron_positions, "color" = "#06402b")
 ))
 
 
