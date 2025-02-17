@@ -124,7 +124,6 @@ GLOBAL_LIST_INIT(position_categories, list(
 	EXP_TYPE_ENDRON = list("jobs" = endron_positions, "color" = "#06402b")
 ))
 
-
 GLOBAL_LIST_INIT(exp_jobsmap, list(
 	EXP_TYPE_CREW = list("titles" = command_positions | church_positions | camarilla_council_positions | citizen_positions | police_positions | national_security_positions | anarch_positions | services_positions  | giovanni_positions | tzimisce_positions | warehouse_positions | tremere_positions | gang_positions | clinic_positions | endron_positions), // crew positions
 	EXP_TYPE_CAMARILLIA = list("titles" = command_positions),
